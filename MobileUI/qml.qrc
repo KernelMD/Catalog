@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/Header.qml</file>
+        <file>qml/MainScreen.qml</file>
+        <file>qml/ListEntry.qml</file>
+        <file>qml/ContactSelector.qml</file>
+        <file>qml/Catalog.qml</file>
+        <file>qml/Contact.qml</file>
+        <file>qml/Commodity.qml</file>
+        <file>qml/Settings.qml</file>
+    </qresource>
+</RCC>
